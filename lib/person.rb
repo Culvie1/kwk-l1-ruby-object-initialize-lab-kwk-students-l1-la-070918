@@ -11,3 +11,4 @@ dog_name = gets.strip
 puts "Your dog's name will be #{dog_name}."
 puts "What accesorie would you like to have for your #{dog}?"
 accesorie = gets.strip
+puts "Alrighty then we will give you a #{accesorie}."
